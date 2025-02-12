@@ -44,3 +44,18 @@ Xcode Installation
 
 Install Dart
 Dart comes with Flutter, so you don't need to install it separately if Flutter is installed.
+
+Get Dependencies
+Navigate to the project directory and install the required dependencies:
+
+# bash
+cd nic-decoder-app
+flutter pub get
+Run the App
+# To run the app on your emulator or device, use the following command:
+# bash
+flutter run
+
+# License
+This project is not available for commercial use.
+For personal and educational purposes only.
